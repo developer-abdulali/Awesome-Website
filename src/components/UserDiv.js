@@ -5,7 +5,7 @@ const UserDiv = () => {
     <div>
       <div className="usr-div">
         <div className="usr-detail">
-          <img src="../images/img1.png" alt="img" className="logo" />
+          <img src="../images/usr-img.png" alt="img" className="logo" />
           <div className="usr-text">
             <div>
               <span className="helloIam">안녕 나 응애 </span>

@@ -164,3 +164,21 @@
   font-size: 12px;
   font-weight: 400;
 }
+.usr-cmnt {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0px 15px;
+}
+.usr-name{
+color: #1D232B;
+font-size: 14px;
+font-weight: 700;
+}
+.usr-svg{
+width: 14px;
+height: 14px;
+}
+.comment{
+ margin: 0px 15px;
+}

@@ -1,4 +1,5 @@
 import "./App.css";
+import CommentComp from "./components/CommentComp";
 import NavComp from "./components/NavComp";
 import Slider from "./components/Slider";
 import UserDiv from "./components/UserDiv";
@@ -9,6 +10,7 @@ const App = ()=> {
       <NavComp />
       <UserDiv />
       <Slider />
+      <CommentComp />
     </div>
   );
 }
