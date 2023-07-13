@@ -115,19 +115,29 @@
   font-style: normal;
   font-weight: 500;
 }
-.p{
-    line-height: 20px;
+.p {
+  line-height: 20px;
 }
-.slider{
-width: 540px;
-height: 450px;
-display: flex;
-align-items: center;
-flex-shrink: 0;
-margin: 10px 15px;
-background: #EDEEF3;
+.slider {
+  width: 540px;
+  height: 450px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  margin: 10px 15px;
+  background: #edeef3;
 }
-.svg{
-   display: block;
-   margin: 0 auto;
+.svg {
+  display: block;
+  margin: 0 auto;
+}
+.sldr-div {
+  position: relative;
+  top: -50px;
+  margin: 0px 45%;
+}
+.sldrDots {
+  width: 50px;
+  height: 6px;
+  flex-shrink: 0;
 }
