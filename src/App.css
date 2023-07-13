@@ -97,7 +97,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
-
+    margin-top: 10px;
 }
 .spans {
     padding: 5px 12px;
