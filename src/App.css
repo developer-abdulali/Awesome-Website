@@ -27,9 +27,6 @@
   flex-shrink: 0;
 }
 .logo {
-  /* width: 37.477px;
-  height: 67.614px;
-  flex-shrink: 0; */
   background: #ffe6c5;
   border-radius: 40px;
 }
@@ -168,7 +165,7 @@
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  margin: 0px 15px;
+  margin: 10px 15px;
 }
 .usr-name {
   color: #1d232b;
@@ -183,7 +180,7 @@
   margin: 0px 15px;
 }
 .comment p {
-  padding: 0px 50px 75px 58px;
+  padding: 0px 50px 0px 58px;
   color: #313b49;
   font-size: 12px;
   font-style: normal;
