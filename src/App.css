@@ -170,15 +170,24 @@
   gap: 8px;
   margin: 0px 15px;
 }
-.usr-name{
-color: #1D232B;
-font-size: 14px;
-font-weight: 700;
+.usr-name {
+  color: #1d232b;
+  font-size: 14px;
+  font-weight: 700;
 }
-.usr-svg{
-width: 14px;
-height: 14px;
+.usr-svg {
+  width: 14px;
+  height: 14px;
 }
-.comment{
- margin: 0px 15px;
+.comment {
+  margin: 0px 15px;
+}
+.comment p {
+  padding: 0px 50px 75px 58px;
+  color: #313b49;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: -0.12px;
 }
