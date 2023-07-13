@@ -105,7 +105,7 @@
 .spans {
   padding: 5px 12px;
   border-radius: 30px;
-  background: s #f7f8fa;
+  background: #f7f8fa;
   border: 0.5px solid #ced3de;
 }
 
@@ -114,5 +114,20 @@
   font-size: 12px;
   font-style: normal;
   font-weight: 500;
-  line-height: 100%;
+}
+.p{
+    line-height: 20px;
+}
+.slider{
+width: 540px;
+height: 450px;
+display: flex;
+align-items: center;
+flex-shrink: 0;
+margin: 10px 15px;
+background: #EDEEF3;
+}
+.svg{
+   display: block;
+   margin: 0 auto;
 }
