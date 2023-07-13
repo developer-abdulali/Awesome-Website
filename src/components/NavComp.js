@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react"
 
 const NavComp = () => {
   return (
@@ -23,7 +23,7 @@ const NavComp = () => {
           </svg>
         </div>
         <div>
-          <span className='nav-text'>자유톡</span>
+          <span className="nav-text">자유톡</span>
         </div>
         <div>
           <svg
