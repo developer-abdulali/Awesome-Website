@@ -141,3 +141,26 @@
   height: 6px;
   flex-shrink: 0;
 }
+.icns {
+  margin: 0px 15px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.heart-icn,
+.msg-icn {
+  display: flex;
+  align-items: center;
+  color: #919eb6;
+  font-size: 12px;
+
+  font-weight: 400;
+}
+.svd-icn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #919eb6;
+  font-size: 12px;
+  font-weight: 400;
+}
