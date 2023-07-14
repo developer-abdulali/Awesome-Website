@@ -188,3 +188,14 @@
   line-height: 20px;
   letter-spacing: -0.12px;
 }
+.userCommentDetail{
+    display: inline-flex;
+    align-items: center;
+    gap: 380px;
+}
+.commentDot{
+    margin-left: 330px;
+}
+.commentDots{
+    margin-left: 350px;
+}
