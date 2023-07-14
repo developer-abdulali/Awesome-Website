@@ -188,14 +188,40 @@
   line-height: 20px;
   letter-spacing: -0.12px;
 }
-.userCommentDetail{
-    display: inline-flex;
-    align-items: center;
-    gap: 380px;
+.userCommentDetail {
+  display: inline-flex;
+  align-items: center;
+  gap: 380px;
 }
-.commentDot{
-    margin-left: 330px;
+.commentDot {
+  margin-left: 330px;
 }
-.commentDots{
-    margin-left: 350px;
+.commentDots {
+  margin-left: 350px;
+}
+.hrTag {
+  color: red;
+}
+.commentInput {
+  display: inline-flex;
+  gap: 20px;
+  align-items: center;
+  margin: 10px 15px;
+}
+.commentInput > svg {
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.commentInput > span{
+    color: #AFB9CA;
+
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+
+letter-spacing: -0.12px;
+}
+.registration {
+  margin-left: 350px;
 }
